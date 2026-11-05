@@ -1,4 +1,4 @@
-# 🏏 Cricket Tournament Management System
+# 🏏 Cricket Tournament Management System 
 
 A full-stack **Cricket Tournament Management System** built as an Object-Oriented Programming project. The system uses **C++ engines** for core cricket logic, **Python Flask** microservices for the REST API layer, **SQLite** for persistence, and an **HTML/CSS/JS** frontend for the management dashboard.
 
@@ -534,5 +534,6 @@ g++ -o scoring_engine.exe scoring_engine.cpp -std=c++17
 
 ---
 
-#   o p p s p r o j e c t  
+#   o p p s p r o j e c t 
+ 
  
